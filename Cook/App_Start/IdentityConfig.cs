@@ -55,7 +55,7 @@ namespace Cook
 
             //string AuthToken = "1bb88d19d79b895d0a470f0ecaf8d7b4";
 
-            //string twilioPhoneNumber = "+12407244700";
+            //string twilioPhoneNumber = "#################";
 
             //var twilio = new TwilioRestClient(AccountSid, AuthToken);
             //twilio.SendMessage(twilioPhoneNumber, message.Destination, message.Body);
